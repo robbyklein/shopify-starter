@@ -1,0 +1,18 @@
+.width {
+    max-width: 1160px;
+    margin: 0 auto;
+    width: 92%;
+}
+
+.relative {
+    position: relative;
+}
+
+.hide {
+    display: none;
+}
+
+.offscreen {
+    position: absolute;
+    left: -9999px;
+}

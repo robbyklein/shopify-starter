@@ -1,0 +1,20 @@
+[
+    {
+        "name": "theme_info",
+        "logo": "https://cdn.shopify.com/s/files/1/0070/7032/files/2010_6_23_Shopify-Green_256x256.jpg",
+        "settings": [
+            {
+                "type": "header",
+                "content": "Shopify Starter"
+            },
+            {
+                "type": "paragraph",
+                "content": "v1.0.0"
+            },
+            {
+                "type": "paragraph",
+                "content": "Boilerplate code for a shopify theme by Robert Klein."
+            }
+        ]
+    }
+]
